@@ -1,0 +1,5 @@
+pystray>=0.19.5
+pillow>=13.0.0
+pywin32>=312
+winrt-Windows.UI.Notifications
+winrt-Windows.Data.Xml.Dom

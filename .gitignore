@@ -1,0 +1,15 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local runtime config & logs
+config.json
+monitor.log
+monitor.log.*
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
